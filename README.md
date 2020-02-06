@@ -1,2 +1,3 @@
-# project1
-practice
+# maven-project
+
+Simple Maven Project
